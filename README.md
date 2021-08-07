@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonykelly (fullstack developer | product manager | coffee addict)
 - 👀 I’m interested in python, machine learning, videogames, esports
 - 🌱 I’m always learning
-- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/tonykelly/) | [spicebox.io](https://www.spicebox.io) | [email ](mailto:tony@spicebox.io?subject=[GitHub]
+- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/tonykelly/) | [spicebox.io](https://www.spicebox.io) | [email ](mailto:tony@spicebox.io?subject=[GitHub])
 
 <!---
 tonykelly/tonykelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
