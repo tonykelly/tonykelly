@@ -10,7 +10,7 @@
 :bomb:  I’m always learning, thinking & tinkering
 
 
-:crystal_ball:  How to reach me - [inkedin](https://www.linkedin.com/in/tonykelly/) | [spicebox](https://www.spicebox.io) | [email](mailto:tony@spicebox.io?subject=GitHub)
+:crystal_ball:  How to reach me - [linkedin](https://www.linkedin.com/in/tonykelly/) | [spicebox](https://www.spicebox.io) | [email](mailto:tony@spicebox.io?subject=GitHub)
 
 <!---
 tonykelly/tonykelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
