@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tonykelly (fullstack developer | product manager | coffee addict)
+- 👋 Hi, I’m @tonykelly... fullstack developer, product manager, coffee addict
 - 👀 I’m interested in python, machine learning, videogames, esports
-- 🌱 I’m always learning
+- 🌱 I’m always learning, thinking & tinkering
 - 📫 How to reach me - [inkedin](https://www.linkedin.com/in/tonykelly/) | [spicebox](https://www.spicebox.io) | [email](mailto:tony@spicebox.io?subject=GitHub)
 
 <!---
