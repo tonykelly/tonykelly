@@ -1,10 +1,10 @@
 👋  Hi, I’m @tonykelly... fullstack developer, product manager, coffee addict
 
 
-:bulb: I’m interested in python, machine learning, videogames, esports, big data, elearning, flask, automation, ux, pwas...
+:bulb: I’m interested in python, al/llms/agents, machine learning, videogames, esports, big data, elearning, automation, ux,, product design
 
 
-:fire:  Currently I am chief product and tech nerd for @playhera
+:fire:  Currently I am chief product and tech nerd @ spicebox
 
 
 :bomb:  I’m always learning, thinking & tinkering
