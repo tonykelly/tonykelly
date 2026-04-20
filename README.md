@@ -1,10 +1,10 @@
-👋  Hi, I’m @tonykelly... cto/cpo, fullstack developer, product manager, coffee addict.
+👋  Hi, I’m @tonykelly... cto/cpo, ai engineer, fullstack developer, product manager, coffee addict.
 
 
 :bulb: I’m interested in python, ai/llms/agents, machine learning, videogames, esports, big data, elearning, automation, ux, product design.
 
 
-:fire:  Currently I am chief product and tech nerd @ spicebox.
+:fire:  Chief product and tech nerd @ spicebox.
 
 
 :bomb:  Always learning, thinking, tinkering.
